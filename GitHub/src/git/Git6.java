@@ -1,9 +1,12 @@
 package git;
 
-public class Git6 {
+public class Git6 
+{
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) U
+	{
+		System.out.println("Universe is good");
+		
 
 	}
 
